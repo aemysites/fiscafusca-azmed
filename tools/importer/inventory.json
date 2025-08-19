@@ -1,0 +1,1072 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+          "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+          "uuid": "2d0f63d3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/registration.html",
+          "urlHash": "35a5a4fc117c0970e0f5244fb0712de7d297e86b",
+          "uuid": "35a5a4fc-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+          "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+          "uuid": "445aee5e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+          "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+          "uuid": "60c98aa1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma",
+          "urlHash": "7653025638b61cde0fec4a955f155e561660caa2",
+          "uuid": "76530256-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+          "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+          "uuid": "7f89b70d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos",
+          "urlHash": "bf19e76ad3beb0a1a855106806f5173579128ed8",
+          "uuid": "bf19e76a-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/blog/exit-ramp-popup.html",
+          "urlHash": "c9d4fbf1c9225ed015d87f952a2fae95e93b0501",
+          "uuid": "c9d4fbf1-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/snipet.html",
+          "urlHash": "f23e13a014a29918cc09fe2339ee67c780d68bf4",
+          "uuid": "f23e13a0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz",
+          "urlHash": "fc5419bd7f4ae7198d9728c6196dc3e6f71ad22d",
+          "uuid": "fc5419bd-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 55
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-13-b65150cde6e25cc6c562a07d65b436311d0d5740",
+          "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+          "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+          "uuid": "2d0f63d3-05-b65150cde6e25cc6c562a07d65b436311d0d5740",
+          "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-11-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/registration.html",
+          "urlHash": "35a5a4fc117c0970e0f5244fb0712de7d297e86b",
+          "uuid": "35a5a4fc-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+          "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+          "uuid": "445aee5e-04-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+          "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+          "uuid": "60c98aa1-05-b65150cde6e25cc6c562a07d65b436311d0d5740",
+          "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma",
+          "urlHash": "7653025638b61cde0fec4a955f155e561660caa2",
+          "uuid": "76530256-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+          "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+          "uuid": "7f89b70d-04-b65150cde6e25cc6c562a07d65b436311d0d5740",
+          "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-11-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-11-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos",
+          "urlHash": "bf19e76ad3beb0a1a855106806f5173579128ed8",
+          "uuid": "bf19e76a-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/blog/exit-ramp-popup.html",
+          "urlHash": "c9d4fbf1c9225ed015d87f952a2fae95e93b0501",
+          "uuid": "c9d4fbf1-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-17-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/snipet.html",
+          "urlHash": "f23e13a014a29918cc09fe2339ee67c780d68bf4",
+          "uuid": "f23e13a0-01-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz",
+          "urlHash": "fc5419bd7f4ae7198d9728c6196dc3e6f71ad22d",
+          "uuid": "fc5419bd-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(60, 66, 66) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+          "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+          "uuid": "445aee5e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-11-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+          "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+          "uuid": "2d0f63d3-03-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+          "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+          "uuid": "60c98aa1-03-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+          "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+          "uuid": "7f89b70d-02-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/registration.html",
+          "urlHash": "35a5a4fc117c0970e0f5244fb0712de7d297e86b",
+          "uuid": "35a5a4fc-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma",
+          "urlHash": "7653025638b61cde0fec4a955f155e561660caa2",
+          "uuid": "76530256-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos",
+          "urlHash": "bf19e76ad3beb0a1a855106806f5173579128ed8",
+          "uuid": "bf19e76a-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz",
+          "urlHash": "fc5419bd7f4ae7198d9728c6196dc3e6f71ad22d",
+          "uuid": "fc5419bd-00-d8df14dd6a88517a290bc94f0b4ae2193461f7ef",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-09-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+          "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+          "uuid": "445aee5e-02-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-09-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-09-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+          "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+          "uuid": "2d0f63d3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+          "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+          "uuid": "60c98aa1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+          "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+          "uuid": "7f89b70d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+          "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+          "uuid": "2d0f63d3-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+          "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+          "uuid": "60c98aa1-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-12-fa32ce38263ec8f4f5042ad5c8f6c1ea6a19580a",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[11]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-01-45c896d949f1875e9c52e9c6268af5fe57d417fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[5]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 9,
+      "source": "Hero",
+      "target": "Hero (hero9)",
+      "key": "hero9",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-08-2f1494a50f3eeece12f8d9704eaa81bf166a913f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-04-02f860ddef969f41b059a5986db990a77bc4f8ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-04-02f860ddef969f41b059a5986db990a77bc4f8ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-04-02f860ddef969f41b059a5986db990a77bc4f8ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 11,
+      "source": "Hero",
+      "target": "Hero (hero11)",
+      "key": "hero11",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-08-2f1494a50f3eeece12f8d9704eaa81bf166a913f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[4]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-08-2f1494a50f3eeece12f8d9704eaa81bf166a913f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cards12)",
+      "key": "cards12",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-04-0bf9a3e71a09711a71dc63059692e45437bb24dd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-06-b833dc8b39b58fdda8527bbd0bb7d97315af19b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]/div[5]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+          "uuid": "98b6c74e-06-b833dc8b39b58fdda8527bbd0bb7d97315af19b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]/div[5]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-06-b833dc8b39b58fdda8527bbd0bb7d97315af19b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]/div[5]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-07-1457f21b1b5201c544e2091e6cb7b0bbe517b11d",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-08-bdf7efcb503db2e7dc985c364a5143b9a6c15ba6",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-06-ea2eb1b395690975d5418e6ce5408898b1cc3ed7",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-10-4c31be772153923fe69cf8dc2020d928c26afd8a",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-05-2f6860e7141cbad2cc8dcc0f57766f5756bc9ab6",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-14-bfe10c293eedfdd4011c18a2b3281e152cf76a08",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[13]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "source": "Columns",
+      "target": "Columns (columns20)",
+      "key": "columns20",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-15-bf52ab490c23d47446377f3e379e5199864f675b",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "source": "Hero",
+      "target": "Hero (hero21)",
+      "key": "hero21",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+          "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+          "uuid": "445aee5e-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+          "uuid": "a430265b-01-45c896d949f1875e9c52e9c6268af5fe57d417fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[5]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+          "uuid": "2f16d8b5-01-45c896d949f1875e9c52e9c6268af5fe57d417fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[5]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns",
+      "target": "Columns (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+          "uuid": "18d385d6-01-2cec3f3f16225864b799410884298e7adfe72f17",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 25,
+      "source": "Header",
+      "target": "Header (header25)",
+      "key": "header25",
+      "instances": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+          "uuid": "e81c9221-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-02-8f16d711d4ec6a7119ceae5fdadcfa3d014b6997",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[5]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-03-62a8310520bfc3849d0924ce178e4ad937afc03a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[6]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-04-74b733085e6f03fdf0adb8f74fa14905906a07bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-07-e3f697ec406114294bf13264c8e55690622a3621",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-09-a789580c28b1b04e9cee9c5a0534d6ce322e3374",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[7]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-10-a22c2fe05d23d4bd9bf554b337a9b2feb45e0d40",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[8]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-12-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio.html",
+      "urlHash": "18d385d66e0dba36076680f2b197a5baf229f6e2",
+      "uuid": "18d385d6-13-b65150cde6e25cc6c562a07d65b436311d0d5740",
+      "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+      "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+      "uuid": "2d0f63d3-02-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+      "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+      "uuid": "2d0f63d3-04-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+      "urlHash": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd",
+      "uuid": "2d0f63d3-05-b65150cde6e25cc6c562a07d65b436311d0d5740",
+      "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+      "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+      "uuid": "2f16d8b5-02-4c7a8b28ed93a4aba7c020ec99fe8cffd7777da7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[5]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+      "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+      "uuid": "2f16d8b5-03-ea69bf56d4b901e251a516718799a0352b0bf92c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+      "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+      "uuid": "2f16d8b5-05-71d745dc4129745a80507a85c63d7afd396c1c8b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[3]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+      "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+      "uuid": "2f16d8b5-07-299c2f6b94cda00dc8bd0a2f8170c8ac8d17c09c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]/div[5]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+      "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+      "uuid": "2f16d8b5-10-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+      "urlHash": "2f16d8b5b6d5ca0573add8cba2b557345296fe95",
+      "uuid": "2f16d8b5-11-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+      "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+      "uuid": "445aee5e-03-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+      "urlHash": "445aee5ea54e68d5ef11510e32532023915b2b95",
+      "uuid": "445aee5e-04-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+      "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+      "uuid": "60c98aa1-02-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+      "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+      "uuid": "60c98aa1-04-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+      "urlHash": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b",
+      "uuid": "60c98aa1-05-b65150cde6e25cc6c562a07d65b436311d0d5740",
+      "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+      "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+      "uuid": "7f89b70d-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+      "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+      "uuid": "7f89b70d-03-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+      "urlHash": "7f89b70d8f7dca140941a9774f84f860e14a908c",
+      "uuid": "7f89b70d-04-b65150cde6e25cc6c562a07d65b436311d0d5740",
+      "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+      "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+      "uuid": "98b6c74e-02-4c7a8b28ed93a4aba7c020ec99fe8cffd7777da7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[5]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+      "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+      "uuid": "98b6c74e-03-ea69bf56d4b901e251a516718799a0352b0bf92c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+      "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+      "uuid": "98b6c74e-05-71d745dc4129745a80507a85c63d7afd396c1c8b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[3]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+      "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+      "uuid": "98b6c74e-07-299c2f6b94cda00dc8bd0a2f8170c8ac8d17c09c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]/div[5]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+      "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+      "uuid": "98b6c74e-10-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+      "urlHash": "98b6c74e6385a587c7d374510183ca33cbce9fb1",
+      "uuid": "98b6c74e-11-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+      "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+      "uuid": "a430265b-02-4c7a8b28ed93a4aba7c020ec99fe8cffd7777da7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[5]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+      "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+      "uuid": "a430265b-03-ea69bf56d4b901e251a516718799a0352b0bf92c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+      "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+      "uuid": "a430265b-05-71d745dc4129745a80507a85c63d7afd396c1c8b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[2]/div[5]/div[2]/div[3]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+      "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+      "uuid": "a430265b-07-299c2f6b94cda00dc8bd0a2f8170c8ac8d17c09c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]/div[3]/div[5]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+      "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+      "uuid": "a430265b-10-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+      "urlHash": "a430265bb995741e0f4642278ad1fc3ff274a390",
+      "uuid": "a430265b-11-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/blog/exit-ramp-popup.html",
+      "urlHash": "c9d4fbf1c9225ed015d87f952a2fae95e93b0501",
+      "uuid": "c9d4fbf1-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/blog/exit-ramp-popup.html",
+      "urlHash": "c9d4fbf1c9225ed015d87f952a2fae95e93b0501",
+      "uuid": "c9d4fbf1-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-02-5f441624e1b629dbe51ec85c59d71ebffc61008c",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-03-f2eaeb06713004aebcc7102014e216fdfd3c89bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-05-932e47ad415fecf243775863869b71e4c0e2ccdb",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[4]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-06-91ddc9ffef4f6f229eb27b67501b8fc6ae9fd598",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-08-6e82ea833905b1d0fb3307525c87ad93194ce118",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[7]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-09-64af4b9ccd566c3a632db58da40708c92210c064",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[8]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-11-8a7447babb916dee3cdfba4880adcb08630d8c75",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[10]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-13-bb2bc2073f71b3f7bcd96a306091bae5cbc99b86",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[12]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-16-32bd4111552ff75354ee0070f974e2db84cfa4b2",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.azmed.com.mx/onco.html",
+      "urlHash": "e81c92216d40c33180cd2e131576a8e6958332c2",
+      "uuid": "e81c9221-17-598355adb6e239d842ebd6b66c1a3a750bcb8102",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/snipet.html",
+      "urlHash": "f23e13a014a29918cc09fe2339ee67c780d68bf4",
+      "uuid": "f23e13a0-00-6e70765a003047818ea5700b557b8d01b43078df",
+      "xpath": "/html[1]/body[1]/div[1]"
+    },
+    {
+      "url": "https://www.azmed.com.mx/inicio/snipet.html",
+      "urlHash": "f23e13a014a29918cc09fe2339ee67c780d68bf4",
+      "uuid": "f23e13a0-01-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(131, 0, 81) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(0, 56, 101) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(27, 27, 27) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 18
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(60, 66, 66) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 9
+    }
+  ]
+}
