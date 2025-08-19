@@ -1,0 +1,322 @@
+{
+    "originUrl": "https://www.azmed.com.mx",
+    "aborted": false,
+    "lastCrawled": "https://www.azmed.com.mx",
+    "urls": [
+      {
+        "url": "https://www.azmed.com.mx/header-erc.html",
+        "source": "SITEMAPS",
+        "targetPath": "/header-erc",
+        "id": "4e31411f802ceb83251bf0064de0153122d4beb9"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio.html",
+        "source": "SITEMAPS",
+        "targetPath": "/inicio",
+        "id": "18d385d66e0dba36076680f2b197a5baf229f6e2"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+        "source": "SITEMAPS",
+        "targetPath": "/inicio/aviso-de-privacidad",
+        "id": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/blog/exit-ramp-popup.html",
+        "source": "SITEMAPS",
+        "targetPath": "/inicio/blog/exit-ramp-popup",
+        "id": "c9d4fbf1c9225ed015d87f952a2fae95e93b0501"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+        "source": "SITEMAPS",
+        "targetPath": "/inicio/en-construccion",
+        "id": "7f89b70d8f7dca140941a9774f84f860e14a908c"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+        "source": "SITEMAPS",
+        "targetPath": "/inicio/notificacion-legal-y-terminos-de-uso",
+        "id": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/snipet.html",
+        "source": "SITEMAPS",
+        "targetPath": "/inicio/snipet",
+        "id": "f23e13a014a29918cc09fe2339ee67c780d68bf4"
+      },
+      {
+        "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz",
+        "source": "SITEMAPS",
+        "targetPath": "/login",
+        "id": "fc5419bd7f4ae7198d9728c6196dc3e6f71ad22d"
+      },
+      {
+        "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma",
+        "source": "SITEMAPS",
+        "targetPath": "/login",
+        "id": "7653025638b61cde0fec4a955f155e561660caa2"
+      },
+      {
+        "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos",
+        "source": "SITEMAPS",
+        "targetPath": "/login",
+        "id": "bf19e76ad3beb0a1a855106806f5173579128ed8"
+      },
+      {
+        "url": "https://www.azmed.com.mx/onco.html",
+        "source": "SITEMAPS",
+        "targetPath": "/onco",
+        "id": "e81c92216d40c33180cd2e131576a8e6958332c2"
+      },
+      {
+        "url": "https://www.azmed.com.mx/registration.html",
+        "source": "SITEMAPS",
+        "targetPath": "/registration",
+        "id": "35a5a4fc117c0970e0f5244fb0712de7d297e86b"
+      },
+      {
+        "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+        "source": "SITEMAPS",
+        "targetPath": "/sobre-uso-saba",
+        "id": "445aee5ea54e68d5ef11510e32532023915b2b95"
+      },
+      {
+        "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+        "source": "SITEMAPS",
+        "targetPath": "/sobre-uso-saba/high-risk",
+        "id": "2f16d8b5b6d5ca0573add8cba2b557345296fe95"
+      },
+      {
+        "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+        "source": "SITEMAPS",
+        "targetPath": "/sobre-uso-saba/low-risk",
+        "id": "a430265bb995741e0f4642278ad1fc3ff274a390"
+      },
+      {
+        "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+        "source": "SITEMAPS",
+        "targetPath": "/sobre-uso-saba/medium-risk",
+        "id": "98b6c74e6385a587c7d374510183ca33cbce9fb1"
+      }
+    ],
+    "crawlOptions": {
+      "timeout": 64800000,
+      "inclusionPatterns": [],
+      "exclusionPatterns": [],
+      "limit": -1,
+      "sameDomain": true,
+      "keepHash": false,
+      "strategy": "sitemaps",
+      "logger": {},
+      "strategiesAttempted": [
+        "SITEMAPS"
+      ]
+    },
+    "extractionErrors": [
+      {
+        "url": "https://www.azmed.com.mx/content/multibrand/mx/es/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz",
+        "status": "301 Moved Permanently Redirect: https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz"
+      },
+      {
+        "url": "https://www.azmed.com.mx/content/multibrand/mx/es/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma",
+        "status": "301 Moved Permanently Redirect: https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma"
+      },
+      {
+        "url": "https://www.azmed.com.mx/content/multibrand/mx/es/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos",
+        "status": "301 Moved Permanently Redirect: https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/midaz.html",
+        "status": "302 Moved Temporarily Redirect: https://www.azmed.com.mx/content/multibrand/mx/es/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz"
+      },
+      {
+        "url": "https://www.azmed.com.mx/Sobre-uso-saba/asma.html",
+        "status": "302 Moved Temporarily Redirect: https://www.azmed.com.mx/content/multibrand/mx/es/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma"
+      },
+      {
+        "url": "https://www.azmed.com.mx/Sobre-uso-saba/cursos-y-casos-clinicos.html",
+        "status": "302 Moved Temporarily Redirect: https://www.azmed.com.mx/content/multibrand/mx/es/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/notificacion-sobre-cookies.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/contactenos.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/mi-cuenta.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/educacionmedica.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/brilinta.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/oncologia/iressa.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/oncologia/un-momento-por-la-vida.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/xigduo.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/crestor.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/bydureon.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/forxiga.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/selopres.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/selokenzok.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/atacandplus.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/atacand.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/zestril.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/logimax.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/plendil.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/zestoretic.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/inderalici.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/tenoretic.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/cardiovascular-y-metabolico/tenormin.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/blog/curso-terapia-nebulizada.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/carga-del-vsr.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/grupos-y-factores-de-riesgo.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/que-es-synagis.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/estudios-clinicos.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/dosis-y-administracion.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/recursos.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/reporte-de-eventos-adversos.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/study-design1.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/study-design-2.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/study-design-3.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/study-design4.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/synagis-inicio/mapa-de-sitio.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/inicio/conectado/mi-cuenta/update-profile.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc/forxiga.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc/abordando_al_paciente_con_dano_renal.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc/diagnostico_temprano.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc/erc1.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc/intervencion_temprana_de_la_enfermedad_renal.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc.html",
+        "status": "404 Not Found"
+      },
+      {
+        "url": "https://www.azmed.com.mx/erc/diagnostica-me.html",
+        "status": "404 Not Found"
+      }
+    ]
+  }
