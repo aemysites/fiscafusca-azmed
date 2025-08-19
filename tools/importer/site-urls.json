@@ -7,7 +7,8 @@
         "url": "https://www.azmed.com.mx/header-erc.html",
         "source": "SITEMAPS",
         "targetPath": "/header-erc",
-        "id": "4e31411f802ceb83251bf0064de0153122d4beb9"
+        "id": "4e31411f802ceb83251bf0064de0153122d4beb9",
+        "status": "EXCLUDED"
       },
       {
         "url": "https://www.azmed.com.mx/inicio.html",
