@@ -1,0 +1,118 @@
+{
+  "templates": [
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/onco.html",
+          "uuid": "e81c92216d40c33180cd2e131576a8e6958332c2"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio.html",
+          "uuid": "18d385d66e0dba36076680f2b197a5baf229f6e2"
+        }
+      ]
+    },
+    {
+      "name": "'Product Grid Listing'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/low-risk.html",
+          "uuid": "a430265bb995741e0f4642278ad1fc3ff274a390"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/medium-risk.html",
+          "uuid": "98b6c74e6385a587c7d374510183ca33cbce9fb1"
+        },
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba/high-risk.html",
+          "uuid": "2f16d8b5b6d5ca0573add8cba2b557345296fe95"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/inicio/en-construccion.html",
+          "uuid": "7f89b70d8f7dca140941a9774f84f860e14a908c"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/aviso-de-privacidad.html",
+          "uuid": "2d0f63d3a834211f0b1a1f160c00503a3a408bbd"
+        },
+        {
+          "url": "https://www.azmed.com.mx/inicio/notificacion-legal-y-terminos-de-uso.html",
+          "uuid": "60c98aa1fbbf0f6ea326164faea94a21f0c2ec2b"
+        }
+      ]
+    },
+    {
+      "name": "'Homepage Layout'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/Sobre-uso-saba.html",
+          "uuid": "445aee5ea54e68d5ef11510e32532023915b2b95"
+        }
+      ]
+    },
+    {
+      "name": "Login Page",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/cursos-y-casos-clinicos",
+          "uuid": "bf19e76ad3beb0a1a855106806f5173579128ed8"
+        },
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/Sobre-uso-saba/asma",
+          "uuid": "7653025638b61cde0fec4a955f155e561660caa2"
+        }
+      ]
+    },
+    {
+      "name": "'User Registration Form'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/registration.html",
+          "uuid": "35a5a4fc117c0970e0f5244fb0712de7d297e86b"
+        }
+      ]
+    },
+    {
+      "name": "Login Page",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/login.html?currentPagePath=/content/multibrand/mx/es/inicio/midaz",
+          "uuid": "fc5419bd7f4ae7198d9728c6196dc3e6f71ad22d"
+        }
+      ]
+    },
+    {
+      "name": "I'm sorry, but the image provided appears to be",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/inicio/blog/exit-ramp-popup.html",
+          "uuid": "c9d4fbf1c9225ed015d87f952a2fae95e93b0501"
+        }
+      ]
+    },
+    {
+      "name": "\"Minimalist Directory Listing\"",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.azmed.com.mx/inicio/snipet.html",
+          "uuid": "f23e13a014a29918cc09fe2339ee67c780d68bf4"
+        }
+      ]
+    }
+  ]
+}
